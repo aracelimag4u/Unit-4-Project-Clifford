@@ -1,0 +1,76 @@
+.menubar {
+    font-family: 'Fruktur', cursive;
+    background: url("https://www.wildwarehouse.com/images/cache/Card_and_Paper/Free_Downloads/Random_Polka_Dot/white-on-green-random-polka-dot-background-paper.500.jpg");
+    display: flex;
+    justify-content: space-between;
+}
+
+body {
+    font-family: 'Mochiy Pop P One', sans-serif;
+    font-size: 30px;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    color: red;
+    font-family: 'Fruktur', cursive;
+}
+
+h2 {
+    border: 20px groove #E67E67;
+    padding: 9px;
+
+}
+
+h3,
+h4,
+h5 {
+    background: url("https://www.wildwarehouse.com/images/cache/Card_and_Paper/Free_Downloads/Random_Polka_Dot/white-on-green-random-polka-dot-background-paper.500.jpg");
+}
+
+.left,
+.Xmas {
+    width: 700px;
+    justify-content:
+        flex-start;
+    height: 100px;
+    margin-bottom: 200px;
+    float: left;
+}
+
+.right,
+.Deeds {
+    width: 700px;
+    justify-content:
+        flex-end;
+    height: 100px;
+    margin-bottom: 400px;
+    float: right;
+}
+
+ul {
+    border-right: 2px solid black;
+    border-top: 2px solid white;
+    border-left: 2px solid black;
+    border-bottom: 2px solid black;
+}
+
+img {
+    width: 400px;
+    display: flex;
+    justify-content: center;
+    padding-left: 50px;
+}
+
+.friends {
+    margin-top: 0px;
+    margin-left: 100px;
+}
+
+figure {
+    border: solid pink 20px;
+    padding: 20px;
+    padding-bottom: 50px;
+    width: 500px;
+}
